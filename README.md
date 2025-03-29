@@ -4,7 +4,7 @@ This program allows users to search for a locations by its zip prefix, full zip 
 ## Features
 - Handles 42.000+ locations
 - use optimized search algorithm (binary search)
-- read inputs from two diffirent input files, combine the informations and outputs the result (input files are excel files)
+- read inputs from two diffirent input files, combine the informations and outputs the result (input files are .csv files)
 
 ## How to Run
 1. **Clone the Repository:**
